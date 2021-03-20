@@ -20,7 +20,7 @@ In a country like ours due to enourmous population and lack of facilities the ra
 
 ### OUR PROJECT
 
-Our project ***EFFICIENT SOS***, aims to bring forward volunteer help in case of any emergency situation. The project will enable people to contact help for any kind of emergency situations quickely and efficiently through a single platform. The platform not only provide services during the time of emergency, but will also provide with necessary details about the nearest aid facilities. It will also provide **assistant videos**, which would help the user to control the situation until professional help arrives, and an **emergency calling feature**, making sure that the family always stay in the loop. Through the project we also aim to provide video calling facilities directly to professionals, which would help them analyse the situation and guide the user for immediate relief.  
+Our project, ***EFFICIENT SOS***, aims to bring forward volunteer help in case of any emergency situation. The project will enable people to contact help for any kind of emergency situations quickely and efficiently through a single platform. The platform not only provide services during the time of emergency, but will also provide with necessary details about the nearest aid facilities. It will also provide **assistant videos**, which would help the user to control the situation until professional help arrives, and an **emergency calling feature**, making sure that the family always stay in the loop. Through the project we also aim to provide video calling facilities directly to professionals, which would help them analyse the situation and guide the user for immediate relief.  
 
 
 ### KEY HIGHLIGHTS 
