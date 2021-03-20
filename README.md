@@ -10,3 +10,4 @@ Through our project, we would bring forward volunteer help in case of an emergen
 
 ### IMPACT ###
 
+Our project will be helpful not only for one kind of emergency but for all kinds, be it fire, road accidents or any others. People can seek volunteer help. This will help building a healthy and supportive community.
