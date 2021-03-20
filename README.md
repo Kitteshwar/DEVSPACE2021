@@ -23,6 +23,7 @@ Our project ***EFFICIENT SOS***, aims to bring forward volunteer help in case of
 * Emergency Video Calling directly to Professionals
 * Family and Loved ones are always in the loop
 
-### IMPACT 
+### AIM
 
-
+* Our Aim through this project is to provide a platform that every person, just having a cellphone or any device with GPS, can use to call for help during emergency situations just by clicking on the right button. 
+* We also aim to control the rise in the death rates by eleminating the factor of miscomunication and lack of knowledge of how to handel the situation.
